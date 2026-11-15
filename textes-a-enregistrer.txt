@@ -1,0 +1,345 @@
+TEXTES À ENREGISTRER
+
+Enregistre chaque texte avec ton téléphone (Dictaphone sur iPhone, Enregistreur sur Android).
+Parle normalement, comme dans la vraie vie. Tu peux demander à des amis pour avoir plusieurs voix.
+Nomme chaque fichier exactement comme indiqué, en .mp3 ou .m4a. Exemple : ecoute-01.m4a
+Mets tous les fichiers dans un dossier "audio", à côté de index.html.
+Si un fichier manque, l'appli utilise la voix du téléphone pour ce texte.
+
+=== ECOUTE ===
+
+ecoute-01
+Bonjour madame, votre rendez-vous chez le dentiste est déplacé à jeudi, quinze heures.
+
+ecoute-02
+Attention, le train pour Lyon partira avec vingt minutes de retard. Il partira voie trois.
+
+ecoute-03
+Salut, c’est Karim. Je ne peux pas venir ce soir, je suis malade. On se voit samedi ?
+
+ecoute-04
+La pharmacie est ouverte du lundi au samedi, de neuf heures à dix-neuf heures. Elle est fermée le dimanche.
+
+ecoute-05
+Pour aller à la mairie, prenez la deuxième rue à gauche, puis allez tout droit.
+
+ecoute-06
+Un kilo de tomates, c’est deux euros cinquante.
+
+ecoute-07
+Prenez ce médicament trois fois par jour, après les repas, pendant une semaine.
+
+ecoute-08
+La réunion des parents d’élèves aura lieu mardi, à dix-huit heures trente, dans la salle quatre.
+
+ecoute-09
+Bonjour, c’est la boulangerie. Votre gâteau d’anniversaire est prêt. Vous pouvez venir le chercher après seize heures.
+
+ecoute-10
+Le bus numéro douze ne passe pas aujourd’hui à cause des travaux. Prenez le bus numéro huit.
+
+ecoute-11
+Aujourd’hui, il va pleuvoir tout l’après-midi. Demain, il fera beau et chaud.
+
+ecoute-12
+Madame Benali, ici le cabinet médical. Le docteur est malade. Votre rendez-vous de lundi est annulé.
+
+ecoute-13
+Les soldes commencent mercredi. Tout le magasin est à moins cinquante pour cent.
+
+ecoute-14
+Bonjour, je vous appelle pour l’appartement. Le loyer est de sept cents euros par mois, charges comprises.
+
+ecoute-15
+Rendez-vous devant la gare à midi. Je porte un manteau rouge.
+
+ecoute-16
+Les enfants, n’oubliez pas : demain, il n’y a pas école. Les professeurs sont en grève.
+
+ecoute-17
+Votre colis est arrivé. Vous pouvez le récupérer au bureau de poste avec une pièce d’identité.
+
+ecoute-18
+J’ai acheté des pommes, du lait et des œufs. Mais j’ai oublié le pain.
+
+ecoute-19
+Ma sœur habite à Lyon. Elle est infirmière et elle a deux enfants.
+
+ecoute-20
+Pour vous inscrire à la salle de sport, il faut un certificat médical et une photo.
+
+ecoute-21
+Attention, ce samedi, le magasin fermera exceptionnellement à dix-sept heures.
+
+ecoute-22
+Nous partons en vacances en Bretagne au mois d’août, pendant deux semaines.
+
+ecoute-23
+Excusez-moi, je cherche la pharmacie. Oui, c’est à côté de la banque, en face de l’école.
+
+ecoute-24
+Le vol pour Casablanca est retardé. L’embarquement est prévu à vingt et une heures, porte B.
+
+ecoute-25
+Allô, bonjour. Je suis votre voisine du troisième. Il y a une fuite d’eau chez moi. Est-ce que vous pouvez fermer le robinet principal ?
+
+ecoute-26
+Bonjour, ici l’école Jean Moulin. Votre fils a un peu de fièvre. Pouvez-vous venir le chercher avant midi ?
+
+ecoute-27
+Mesdames et messieurs, le magasin fermera dans quinze minutes. Merci de vous diriger vers les caisses.
+
+ecoute-28
+Bonjour, je voudrais prendre rendez-vous avec le docteur Martin. Mardi matin, c’est possible ? Oui, à dix heures et quart.
+
+ecoute-29
+Pour la fête de samedi, chacun apporte quelque chose. Moi, je fais le couscous. Toi, tu peux apporter les boissons ?
+
+ecoute-30
+Attention, à cause de la neige, les bus ne circulent pas ce matin. Le service reprendra à partir de quatorze heures.
+
+ecoute-31
+Bonjour madame, c’est la banque. Votre nouvelle carte bancaire est arrivée. Vous pouvez passer la récupérer à l’agence.
+
+ecoute-32
+Salut Nadia ! On va au cinéma ce soir. Le film commence à vingt heures trente. On se retrouve devant le cinéma un quart d’heure avant ?
+
+ecoute-33
+Pour renouveler votre titre de séjour, faites votre demande en ligne, au moins deux mois avant la fin de votre titre.
+
+ecoute-34
+Je cherche un travail à temps partiel, le matin seulement, parce que l’après-midi je vais chercher mes enfants à l’école.
+
+ecoute-35
+Le marché a lieu tous les mercredis et samedis matin, sur la place de l’église.
+
+ecoute-36
+Bonjour, c’est le plombier. Je serai chez vous demain entre neuf heures et onze heures.
+
+ecoute-37
+Pour votre inscription à la CAF, il faut créer un compte sur le site internet et envoyer vos justificatifs.
+
+ecoute-38
+Il fait très chaud cette semaine. Buvez beaucoup d’eau et évitez de sortir entre midi et seize heures.
+
+ecoute-39
+Bonsoir, une table pour quatre personnes, s’il vous plaît. Avez-vous une réservation ? Non. Alors il faut attendre vingt minutes.
+
+ecoute-40
+Le cours de français pour adultes a lieu le lundi et le jeudi, de dix-huit heures à vingt heures. C’est gratuit.
+
+ecoute-41
+Bonjour, vous êtes bien chez Pizza Roma. Nous sommes ouverts tous les jours sauf le lundi, de dix-huit heures à vingt-trois heures.
+
+ecoute-42
+Mesdames et messieurs, le train en provenance de Marseille arrivera voie B avec dix minutes d’avance.
+
+ecoute-43
+Coucou, c’est maman. N’oublie pas ton parapluie, il va pleuvoir cet après-midi.
+
+ecoute-44
+La bibliothèque sera exceptionnellement fermée jeudi. Merci de rapporter vos livres vendredi.
+
+ecoute-45
+Bonjour monsieur, je voudrais un aller simple pour Lille, en deuxième classe, s’il vous plaît.
+
+ecoute-46
+Bienvenue au supermarché ! Aujourd’hui, pour deux paquets de café achetés, le troisième est offert.
+
+ecoute-47
+Bonjour, ici le cabinet du docteur Benali. Le docteur est en congé jusqu’au quinze août. En cas d’urgence, appelez le quinze.
+
+ecoute-48
+Salut Hajar, je suis devant chez toi mais l’interphone ne marche pas. Tu peux descendre m’ouvrir ?
+
+ecoute-49
+Suite à des travaux, les trains entre Paris et Rouen sont remplacés par des cars ce week-end. Le trajet sera plus long d’environ quarante minutes.
+
+ecoute-50
+Bonjour madame, je vous appelle au sujet de votre candidature pour le poste d’aide-soignante. Nous aimerions vous rencontrer. Seriez-vous disponible mardi prochain à quatorze heures ? Merci de me rappeler pour confirmer.
+
+ecoute-51
+Selon une étude récente, les Français passent plus de trois heures par jour devant un écran en dehors du travail. Les spécialistes conseillent de faire des pauses régulières.
+
+ecoute-52
+Ah non, je ne retourne plus dans ce restaurant. La dernière fois, on a attendu une heure, le plat était froid, et en plus c’était cher !
+
+ecoute-53
+La mairie organise une réunion sur le tri des déchets le trois octobre. Chaque foyer recevra gratuitement une poubelle jaune pour les emballages.
+
+ecoute-54
+Je travaille de nuit et je cherche quelqu’un pour garder mes deux enfants le soir, de vingt heures à minuit, trois fois par semaine.
+
+ecoute-55
+Pour bénéficier de la réduction, présentez votre carte d’étudiant à l’accueil. Attention, l’offre est valable uniquement jusqu’à la fin du mois.
+
+ecoute-56
+Moi, je préfère vivre à la campagne. C’est vrai qu’il faut une voiture, mais on a de l’espace, du calme, et les enfants peuvent jouer dehors.
+
+ecoute-57
+En raison d’une alerte orange aux orages, le marché de Noël est fermé ce soir. Il rouvrira demain à dix heures si la météo le permet.
+
+ecoute-58
+Je suis désolée, je ne pourrai pas venir à la réunion de demain, ma fille est malade. Est-ce qu’on peut la reporter à jeudi ?
+
+ecoute-59
+Bonjour, c’est l’agence immobilière. L’appartement de la rue Victor-Hugo est disponible. Vous pouvez le visiter samedi à dix heures.
+
+ecoute-60
+Attention, ce soir le dernier métro part à minuit et demi au lieu d’une heure du matin, à cause de travaux.
+
+ecoute-61
+Bonjour, je vous rappelle que la réunion de rentrée à l’école aura lieu jeudi soir. Les enfants ne sont pas invités.
+
+ecoute-62
+Le docteur m’a dit de marcher trente minutes par jour et de manger moins de sucre.
+
+ecoute-63
+Depuis lundi, la piscine propose des cours d’aquagym pour les adultes. Les places sont limitées, il faut s’inscrire à l’accueil avant vendredi.
+
+ecoute-64
+J’ai changé de travail le mois dernier. Je gagne un peu moins, mais je suis plus près de chez moi et j’ai plus de temps pour mes enfants.
+
+ecoute-65
+Pour réduire les déchets, la ville distribue des composteurs gratuits aux habitants qui ont un jardin. Il suffit de remplir un formulaire en ligne.
+
+ecoute-66
+Bonjour, je voulais vous prévenir que votre colis a été endommagé pendant le transport. Vous pouvez le refuser, et nous vous enverrons un nouveau produit.
+
+ecoute-67
+Bonjour, ici votre banque. Votre rendez-vous avec votre conseillère est confirmé pour vendredi à onze heures. Pensez à apporter un justificatif de domicile.
+
+ecoute-68
+Le magasin de jouets ouvre ses portes dimanche exceptionnellement, de dix heures à dix-huit heures, pour les fêtes de fin d’année.
+
+ecoute-69
+Coucou ! Je fais un gâteau pour ce soir mais je n’ai plus d’œufs. Tu peux en acheter six en rentrant ?
+
+ecoute-70
+Attention, l’ascenseur est en panne. Le réparateur passera demain matin. Merci de prendre l’escalier.
+
+ecoute-71
+Bonjour, je suis la maîtresse de Yanis. Il a oublié son cahier de devoirs à l’école. Il peut venir le chercher demain avant la classe.
+
+ecoute-72
+Pour le pique-nique de dimanche, rendez-vous au parc à midi. S’il pleut, on mangera chez Sophie.
+
+ecoute-73
+Je voudrais résilier mon abonnement à la salle de sport. Je déménage à Lyon le mois prochain et il n’y a pas de salle de votre chaîne là-bas.
+
+ecoute-74
+Les inscriptions pour les cours de français du soir commencent lundi. Les cours sont gratuits mais il faut apporter une pièce d’identité et un justificatif de domicile.
+
+ecoute-75
+Franchement, je préfère prendre le train plutôt que l’avion : c’est plus confortable, on peut travailler pendant le trajet et la gare est au centre-ville.
+
+ecoute-76
+À partir du premier janvier, les sacs en plastique ne seront plus distribués aux caisses. Pensez à apporter vos propres sacs.
+
+ecoute-77
+Excusez-moi, à quelle heure ferme la pharmacie ?
+
+ecoute-78
+Bonjour, vous désirez ?
+
+ecoute-79
+Tu viens au cinéma avec nous ce soir ?
+
+ecoute-80
+Ça fait combien, s’il vous plaît ?
+
+ecoute-81
+Comment allez-vous à votre travail ?
+
+ecoute-82
+Vous avez rendez-vous ?
+
+ecoute-83
+Qu’est-ce que tu fais dans la vie ?
+
+ecoute-84
+Je vous sers autre chose ?
+
+ecoute-85
+Depuis quand habitez-vous en France ?
+
+ecoute-86
+Ça te dirait de venir dîner à la maison samedi ?
+
+=== PHRASES ===
+
+phrase-01
+Je m’appelle Samira et je suis marocaine.
+
+phrase-02
+J’habite en France avec mon mari.
+
+phrase-03
+Nous allons au marché le samedi.
+
+phrase-04
+Je voudrais un rendez-vous chez le médecin.
+
+phrase-05
+Il fait très froid aujourd’hui.
+
+phrase-06
+Mon fils va à l’école à pied.
+
+phrase-07
+Le train part à huit heures.
+
+phrase-08
+Pouvez-vous parler plus lentement ?
+
+phrase-09
+Ma sœur est plus grande que moi.
+
+phrase-10
+Hier, nous avons mangé au restaurant.
+
+phrase-11
+Je n’aime pas le café.
+
+phrase-12
+Où est la gare, s’il vous plaît ?
+
+phrase-13
+Combien coûte ce pantalon ?
+
+phrase-14
+Demain, je vais chez ma mère.
+
+phrase-15
+Le magasin est fermé le dimanche.
+
+phrase-16
+Je suis arrivée hier soir.
+
+phrase-17
+Mon mari travaille dans une banque.
+
+phrase-18
+Nous prenons le bus pour aller au travail.
+
+phrase-19
+Est-ce que tu viens avec nous ?
+
+phrase-20
+Elle a mal à la tête depuis ce matin.
+
+phrase-21
+Je dois aller à la préfecture demain.
+
+phrase-22
+Il y a une pharmacie près d’ici.
+
+phrase-23
+Les enfants jouent dans le parc.
+
+phrase-24
+Je voudrais payer par carte.
+
+phrase-25
+Quelle heure est-il, s’il vous plaît ?
+

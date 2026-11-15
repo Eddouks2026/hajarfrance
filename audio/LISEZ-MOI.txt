@@ -1,0 +1,4 @@
+Ce dossier peut contenir :
+- musique.mp3 : une musique d'ambiance (optionnelle). Le bouton Musique apparaît seulement si ce fichier existe.
+- tes enregistrements, si tu en fais : ecoute-01.m4a, phrase-01.m4a...
+La liste des textes est dans textes-a-enregistrer.txt.

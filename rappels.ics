@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Objectif France//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Objectif France
+BEGIN:VEVENT
+UID:objectif-france-jour1-20261115T093000@hajar
+DTSTAMP:20261114T201128Z
+DTSTART:20261115T093000
+DTEND:20261115T094500
+SUMMARY:Objectif France : ton programme du jour 1 t'attend
+DESCRIPTION:Environ 4 heures de révision aujourd'hui, en 6 blocs, à ton rythme. Courage Hajar !
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ton programme du jour t'attend
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:objectif-france-jour2-20261116T093000@hajar
+DTSTAMP:20261114T201128Z
+DTSTART:20261116T093000
+DTEND:20261116T094500
+SUMMARY:Objectif France : ton programme du jour 2 t'attend
+DESCRIPTION:Environ 4 heures de révision aujourd'hui, en 6 blocs, à ton rythme. Courage Hajar !
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ton programme du jour t'attend
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:objectif-france-jour3-20261117T093000@hajar
+DTSTAMP:20261114T201128Z
+DTSTART:20261117T093000
+DTEND:20261117T094500
+SUMMARY:Objectif France : ton programme du jour 3 t'attend
+DESCRIPTION:Environ 4 heures de révision aujourd'hui, en 6 blocs, à ton rythme. Courage Hajar !
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ton programme du jour t'attend
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:objectif-france-jour4-20261118T093000@hajar
+DTSTAMP:20261114T201128Z
+DTSTART:20261118T093000
+DTEND:20261118T094500
+SUMMARY:Objectif France : ton programme du jour 4 t'attend
+DESCRIPTION:Environ 4 heures de révision aujourd'hui, en 6 blocs, à ton rythme. Courage Hajar !
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ton programme du jour t'attend
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:objectif-france-jour5-20261119T093000@hajar
+DTSTAMP:20261114T201128Z
+DTSTART:20261119T093000
+DTEND:20261119T094500
+SUMMARY:Objectif France : ton programme du jour 5 t'attend
+DESCRIPTION:Environ 4 heures de révision aujourd'hui, en 6 blocs, à ton rythme. Courage Hajar !
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ton programme du jour t'attend
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:objectif-france-jour6-20261120T093000@hajar
+DTSTAMP:20261114T201128Z
+DTSTART:20261120T093000
+DTEND:20261120T094500
+SUMMARY:Objectif France : ton programme du jour 6 t'attend
+DESCRIPTION:Environ 4 heures de révision aujourd'hui, en 6 blocs, à ton rythme. Courage Hajar !
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ton programme du jour t'attend
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:objectif-france-jour7-20261121T093000@hajar
+DTSTAMP:20261114T201128Z
+DTSTART:20261121T093000
+DTEND:20261121T094500
+SUMMARY:Objectif France : ton programme du jour 7 t'attend
+DESCRIPTION:Environ 4 heures de révision aujourd'hui, en 6 blocs, à ton rythme. Courage Hajar !
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ton programme du jour t'attend
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
